@@ -17,4 +17,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/London
           plugin_languages: yes
-          gist plugin_stars: yes
+          plugin_stars: yes
